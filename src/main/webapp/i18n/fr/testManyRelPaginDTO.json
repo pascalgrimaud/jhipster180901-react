@@ -1,0 +1,22 @@
+
+{
+    "jhipster180901App": {
+        "testManyRelPaginDTO" : {
+            "home": {
+                "title": "TestManyRelPaginDTOS",
+                "createLabel": "Créer un nouveau Test Many Rel Pagin DTO",
+                "createOrEditLabel": "Créer ou éditer un Test Many Rel Pagin DTO"
+            },
+            "created": "Un nouveau Test Many Rel Pagin DTO a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Test Many Rel Pagin DTO avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Test Many Rel Pagin DTO avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Test Many Rel Pagin DTO {{ id }} ?"
+            },
+            "detail": {
+                "title": "Test Many Rel Pagin DTO"
+            },
+            "testMapstruct": "Test Mapstruct"
+        }
+    }
+}

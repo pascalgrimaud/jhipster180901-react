@@ -1,0 +1,29 @@
+
+{
+    "jhipster180901App": {
+        "testRootDivision" : {
+            "home": {
+                "title": "Divisions",
+                "createLabel": "Créer un nouveau Division",
+                "createOrEditLabel": "Créer ou éditer un Division"
+            },
+            "created": "Un nouveau Division a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Division avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Division avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Division {{ id }} ?"
+            },
+            "detail": {
+                "title": "Division"
+            },
+            "name": "Name",
+            "shortName": "Short Name",
+            "numberOfPeople": "Number Of People",
+            "divisionType": "Division Type",
+            "colorBackground": "Color Background",
+            "colorText": "Color Text",
+            "divisionsPlace": "Divisions Place",
+            "preferredPlace": "Preferred Place"
+        }
+    }
+}

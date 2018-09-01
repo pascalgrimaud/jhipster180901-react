@@ -1,0 +1,10 @@
+{
+    "jhipster180901App": {
+        "DivisionType" : {
+            "null": "",
+            "SCHOOL": "SCHOOL",
+            "CLASS": "CLASS",
+            "SUBGROUP": "SUBGROUP"
+        }
+    }
+}
